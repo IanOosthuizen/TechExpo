@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TechSPO.Models;
 
@@ -22,4 +24,7 @@ public partial class Review
     public virtual Event? Event { get; set; }
 
     public virtual Session? Session { get; set; }
+
+    [NotMapped]
+    public SelectList list { get; set; }
 }

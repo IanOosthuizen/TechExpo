@@ -105,7 +105,6 @@ public partial class TechspoContext : DbContext
 
             entity.Property(e => e.ReviewId).HasColumnName("reviewID");
             entity.Property(e => e.EventId).HasColumnName("eventID");
-            entity.Property(e => e.ProductId).HasColumnName("productID");
             entity.Property(e => e.Rating).HasColumnName("rating");
             entity.Property(e => e.ReviewDate)
                 .HasColumnType("date")

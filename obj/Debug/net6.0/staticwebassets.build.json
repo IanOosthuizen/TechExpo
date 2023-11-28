@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ni14U1Sc4BIvkltUpf5+VhrR0cjSJmenffKWCJ8xvBE=",
+  "Hash": "/GwAJUBsY5lCKgOi+6m+ivFvKk/PqC6BeigTP5oKgQw=",
   "Source": "TechSPO",
   "BasePath": "_content/TechSPO",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TechSPO.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\css\\Login.css",
+      "SourceId": "TechSPO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\",
+      "BasePath": "_content/TechSPO",
+      "RelativePath": "css/Login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Login.css"
     },
     {
       "Identity": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\css\\site.css",

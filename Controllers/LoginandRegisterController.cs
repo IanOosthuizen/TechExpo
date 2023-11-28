@@ -81,7 +81,7 @@ namespace TechSPO.Controllers
         }
 
         //This method is used to hash a password for security
-        public static string ComputeHash(string info)   //(SkillCafe, 2021).
+        public static string ComputeHash(string info)   
         {
             // I created a SHA256
             using (SHA256 sha256Hash = SHA256.Create())
