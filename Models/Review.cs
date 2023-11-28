@@ -11,8 +11,6 @@ public partial class Review
 
     public int? SessionId { get; set; }
 
-    public int? ProductId { get; set; }
-
     public string ReviewerName { get; set; } = null!;
 
     public int Rating { get; set; }
