@@ -37,7 +37,6 @@ CREATE TABLE Reviews (
     reviewID INT PRIMARY KEY IDENTITY(1,1),
     eventID INT,
     sessionID INT,
-    productID INT,
     reviewerName VARCHAR(100) NOT NULL,
     rating INT NOT NULL,
     reviewText TEXT,
