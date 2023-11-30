@@ -1,0 +1,77 @@
+﻿/* Reset some default styles */
+body, h1, h2, h3, h4, h5, h6, p, img {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set font for the entire page */
+body {
+    font-family: 'Eras ITC Demi', sans-serif;
+    font-size: 20pt;
+}
+
+/* Style the header */
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+.display-4 {
+    font-size: 20pt; /* Adjust the font size as needed */
+}
+
+/* Style the images container */
+
+
+/* Style individual header images */
+.header-image {
+    width: 200pt; /* Adjust the width as needed */
+    max-width: 100%; /* Ensure images don't exceed their container */
+}
+
+/* Style the sections */
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+/* Style section headings */
+h2 {
+    color: #333; /* Adjust the color as needed */
+    font-size: 40pt; /* Adjust the font size as needed */
+}
+
+/* Style the link button */
+a {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+    /* Style the button image */
+    a img {
+        width: 100pt; /* Adjust the width as needed */
+    }
+
+/* Optional: Add some spacing between sections */
+section + section {
+    margin-top: 40px;
+}
+/* Style the footer */
+
+.header-image left{
+    position:relative;
+    z-index:1;
+    border-image-width:;
+}
+
+.header-image center{
+    position:relative;
+    z-index:1;
+}
+
+.header-image right {
+    position: relative;
+    z-index: 1;
+}

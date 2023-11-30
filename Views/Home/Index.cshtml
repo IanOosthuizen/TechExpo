@@ -1,8 +1,92 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["TECHSPO"] - TechSPO</title>
+    <link rel="stylesheet" href="~/css/Index.css" />
+</head>
+<body>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+    <header>
+        <img src="~/image/Heading Center.png" alt="Header Image" style="width: 100%;" />
+        <div>
+            <a href="../Views/Home/Index.cshtml">
+                <img src="~/image/M Dark Pink.png" alt="M" style="width: 60pt; position: absolute; top: 1%; left:8%;" />
+            </a>
+            <a href="../Views/Home/Index.cshtml">
+                <img src="~/image/trollie Dark Pink.png" alt="trollie" style="width: 60pt; position: absolute; top: 1%; right: 8%;" />
+            </a>
+            <img src="~/image/MainOnly.png" alt="Logo" style="width: 500pt; position: relative ;top: 1%; right: 1.6%;" />
+        </div>
+
+
+        <h1>THE GREAT RESET</h1>
+        <h2>JOHANNESBURG</h2>
+        <div class="header-images-container">
+            <img class="header-image left" src="~/image/MicrosoftTeams-image (3).png" />
+            <img class="header-image center" src="~/image/MicrosoftTeams-image.png" />
+            <img class="header-image right" src="~/image/MicrosoftTeams-image (4).png" />
+        </div>
+    </header>
+
+    <section>
+        <h2>CTU Presents The Finest</h2>
+        <p>
+            CTU will be attending this event with high regard with what the students of CTU's Facilities have created to show off their craftsmanship.
+            The Facilities that will be present are the Design
+            facility, IT Facility, and Business Facility. Each facility's area would have the Courses that lie
+            in that Facility to interest the viewers to be more interested in it.
+        </p>
+    </section>
+
+    <section>
+        <h2>The Advancements we are celebrating</h2>
+        <p>
+            <img src="~/image/Rocket.png" style="width: 100pt; height: 100pt; float: left; margin-right: 20px;" />
+            These advancements were made drastically and started The Fourth Great Industrial revolution.
+            Which was made possible by Ai. This Revelation Is the greatest help to improve the livelihood of the fourth revolution.
+            This Expo Will announce the way to fully use this opportunity with Guest Speakers as well as stalls to see the advancements offered in education and work.
+        </p>
+        <div style="clear: both;"></div>
+    </section>
+
+    <section>
+        <h2>Members Only</h2>
+        <p style="text-align: center;">
+            With the presence of our Honored Guest Speakers, there will be an uproar of questions and a capacity filled with plentiful.
+            In this regard, we ask you to either be patient and wait as these people stepped out with what they know and willingly share that to the public.
+            If for whatever reason you think that your time might be longer or more
+            important than the wait period, we have a solution to being the first to ask questions as well as a room with the guest speakers.
+            Our "Members only" which is given to those who helped set this up as well as patrons who wish to join them. If you want to
+            join click the button below.
+            <div style="text-align: center;">
+                <a href="~/Views/LoginandRegister/Login.cshtml">
+                    <img src="~/image/M pink.png" style="width: 60pt;" alt="Your Image Alt Text" />
+                </a>
+            </div>
+        </p>
+    </section>
+
+    <section>
+        <div style="position: relative;">
+            <h2>How they are benefiting us</h2>
+            <p>
+                <img src="~/image/Bing.png" style="width: 100pt; height: 100pt; float: left; margin-right: 20px;" alt="Bing Image" />
+                <img src="~/image/ChatGPT.png" style="width: 100pt; height: 100pt; float: left; margin-right: 20px;" alt="ChatGPT Image" />
+                They are creating an easier way of doing mundane processes as well as handing us information useful to evolve our knowledge.
+                There would be a few speakers who came from well-known facilities around the world to humble us with what they know.
+            </p>
+        </div>
+    </section>
+    <section>
+        <img src="~/image/up Dark Pink.png" style="width: 105pt; position:absolute; bottom:6%; left:45.5%;" alt="Up Arrow" />
+    </section>
+
+    <footer>
+        <img src="~/image/Footer.png" alt="Footer Image" style="width: 100%;" />
+        <!-- Your footer content goes here -->
+    </footer>
+
+</body>
+</html>
