@@ -1,69 +1,48 @@
 ﻿@model TechSPO.Models.User
 
-<!DOCTYPE html>
-<html lang="en">
+@{
+    ViewData["Title"] = "Register";
+}
 
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Register</title>
-    <link rel="stylesheet" href="~/css/Login.css" />
-</head>
+<h1>Register</h1>
 
-<body>
-    <header style="margin-top: 200px; position: relative;">
-        <img src="~/image/Heading Left.png" alt="Header Image" style="width: 100%;" />
-        <img src="~/image/R pink.png" alt="Back button Image" style="width: 60px; height: auto; position: absolute; top: 10px; left: 40px;" />
-    </header>
-
-    <div class="container">
-
-        <div class="login-section">
-
-            <h4>Register</h4>
-            <hr />
-            <div class="row">
-                <div class="col-md-12">
-                    <form asp-action="Register" asp-controller="LoginandRegister">
-                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-                        <div class="form-group">
-                            <label asp-for="Username" class="control-label"></label>
-                            <input asp-for="Username" class="form-control" />
-                            <span asp-validation-for="Username" class="text-danger"></span>
-                        </div>
-                        <div class="form-group">
-                            <label asp-for="PasswordHash" class="control-label"></label>
-                            <input asp-for="PasswordHash" type="password" class="form-control" />
-                            <span asp-validation-for="PasswordHash" class="text-danger"></span>
-                        </div>
-                        <div class="form-group">
-                            <label asp-for="Email" class="control-label"></label>
-                            <input asp-for="Email" class="form-control" />
-                            <span asp-validation-for="Email" class="text-danger"></span>
-                        </div>
-                        <div class="form-group">
-                            <label asp-for="FullName" class="control-label"></label>
-                            <input asp-for="FullName" class="form-control" />
-                            <span asp-validation-for="FullName" class="text-danger"></span>
-                        </div>
-                        <div class="form-group">
-                            <input type="submit" value="Register" class="btn btn-primary" />
-                        </div>
-                    </form>
-                </div>
+<h4>User</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Register">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Username" class="control-label"></label>
+                <input asp-for="Username" class="form-control" />
+                <span asp-validation-for="Username" class="text-danger"></span>
             </div>
-
-            <div>
-                <a asp-action="Login">Login</a>
+            <div class="form-group">
+                <label asp-for="PasswordHash" class="control-label"></label>
+                <input asp-for="PasswordHash" class="form-control" />
+                <span asp-validation-for="PasswordHash" class="text-danger"></span>
             </div>
-        </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FullName" class="control-label"></label>
+                <input asp-for="FullName" class="form-control" />
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
     </div>
+</div>
 
-    @section Scripts {
-        @{
-            await Html.RenderPartialAsync("_ValidationScriptsPartial");
-        }
-    }
-</body>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
 
-</html>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,487 +1,251 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TechSPO.bundle.scp.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TechSPO.bundle.scp.css",
       "PackagePath": "staticwebassets\\TechSPO.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\css\\Index.css",
-      "PackagePath": "staticwebassets\\css\\Index.css"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\css\\Login.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\css\\Login.css",
       "PackagePath": "staticwebassets\\css\\Login.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\css\\Register.css",
-      "PackagePath": "staticwebassets\\css\\Register.css"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Bing.png",
-      "PackagePath": "staticwebassets\\image\\Bing.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Blue gift bag.png",
-      "PackagePath": "staticwebassets\\image\\Blue gift bag.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Blue mug.png",
-      "PackagePath": "staticwebassets\\image\\Blue mug.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Blue purple.png",
-      "PackagePath": "staticwebassets\\image\\Blue purple.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Center.png",
-      "PackagePath": "staticwebassets\\image\\Center.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\ChatGPT.png",
-      "PackagePath": "staticwebassets\\image\\ChatGPT.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Done.png",
-      "PackagePath": "staticwebassets\\image\\Done.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Download pdf big.png",
-      "PackagePath": "staticwebassets\\image\\Download pdf big.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Download pdf.png",
-      "PackagePath": "staticwebassets\\image\\Download pdf.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Footer.png",
-      "PackagePath": "staticwebassets\\image\\Footer.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Green mug.png",
-      "PackagePath": "staticwebassets\\image\\Green mug.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Heading Center.png",
-      "PackagePath": "staticwebassets\\image\\Heading Center.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Heading Left.png",
-      "PackagePath": "staticwebassets\\image\\Heading Left.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Heading Right.png",
-      "PackagePath": "staticwebassets\\image\\Heading Right.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\L Dark Pink.png",
-      "PackagePath": "staticwebassets\\image\\L Dark Pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\L pink.png",
-      "PackagePath": "staticwebassets\\image\\L pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\L up light blue.png",
-      "PackagePath": "staticwebassets\\image\\L up light blue.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Log In Dark Pink.png",
-      "PackagePath": "staticwebassets\\image\\Log In Dark Pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Log In light blue.png",
-      "PackagePath": "staticwebassets\\image\\Log In light blue.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Log In pink.png",
-      "PackagePath": "staticwebassets\\image\\Log In pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Logo.png",
-      "PackagePath": "staticwebassets\\image\\Logo.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\M Dark Pink.png",
-      "PackagePath": "staticwebassets\\image\\M Dark Pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\M Dark blue.png",
-      "PackagePath": "staticwebassets\\image\\M Dark blue.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\M light blue.png",
-      "PackagePath": "staticwebassets\\image\\M light blue.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\M pink.png",
-      "PackagePath": "staticwebassets\\image\\M pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\MainOnly.png",
-      "PackagePath": "staticwebassets\\image\\MainOnly.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\MicrosoftTeams-image (1).png",
-      "PackagePath": "staticwebassets\\image\\MicrosoftTeams-image (1).png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\MicrosoftTeams-image (2).png",
-      "PackagePath": "staticwebassets\\image\\MicrosoftTeams-image (2).png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\MicrosoftTeams-image (3).png",
-      "PackagePath": "staticwebassets\\image\\MicrosoftTeams-image (3).png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\MicrosoftTeams-image (4).png",
-      "PackagePath": "staticwebassets\\image\\MicrosoftTeams-image (4).png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\MicrosoftTeams-image.png",
-      "PackagePath": "staticwebassets\\image\\MicrosoftTeams-image.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Pink gift bag.png",
-      "PackagePath": "staticwebassets\\image\\Pink gift bag.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Pink mug.png",
-      "PackagePath": "staticwebassets\\image\\Pink mug.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Purple bag.png",
-      "PackagePath": "staticwebassets\\image\\Purple bag.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\QR NEW.png",
-      "PackagePath": "staticwebassets\\image\\QR NEW.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\R Dark Pink.png",
-      "PackagePath": "staticwebassets\\image\\R Dark Pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\R pink.png",
-      "PackagePath": "staticwebassets\\image\\R pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\R up light blue.png",
-      "PackagePath": "staticwebassets\\image\\R up light blue.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Right.png",
-      "PackagePath": "staticwebassets\\image\\Right.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Rocket.png",
-      "PackagePath": "staticwebassets\\image\\Rocket.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Shirt pink.png",
-      "PackagePath": "staticwebassets\\image\\Shirt pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Shirt purple.png",
-      "PackagePath": "staticwebassets\\image\\Shirt purple.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Shirt white background.png",
-      "PackagePath": "staticwebassets\\image\\Shirt white background.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Sign Up Dark Pink.png",
-      "PackagePath": "staticwebassets\\image\\Sign Up Dark Pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Sign Up light blue.png",
-      "PackagePath": "staticwebassets\\image\\Sign Up light blue.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\Sign Up pink.png",
-      "PackagePath": "staticwebassets\\image\\Sign Up pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\gift bag white background.png",
-      "PackagePath": "staticwebassets\\image\\gift bag white background.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\left.png",
-      "PackagePath": "staticwebassets\\image\\left.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\left2.png",
-      "PackagePath": "staticwebassets\\image\\left2.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\mug white back ground.png",
-      "PackagePath": "staticwebassets\\image\\mug white back ground.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\trollie Dark Pink.png",
-      "PackagePath": "staticwebassets\\image\\trollie Dark Pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\trollie Dark blue.png",
-      "PackagePath": "staticwebassets\\image\\trollie Dark blue.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\trollie light blue.png",
-      "PackagePath": "staticwebassets\\image\\trollie light blue.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\trollie pink.png",
-      "PackagePath": "staticwebassets\\image\\trollie pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\up Dark Pink.png",
-      "PackagePath": "staticwebassets\\image\\up Dark Pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\up light blue.png",
-      "PackagePath": "staticwebassets\\image\\up light blue.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\image\\up pink.png",
-      "PackagePath": "staticwebassets\\image\\up pink.png"
-    },
-    {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\byron\\Source\\Repos\\TechExpo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\ianoo\\source\\repos\\TechSPO\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
